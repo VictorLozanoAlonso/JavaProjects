@@ -1,0 +1,7 @@
+John,Smith,Toronto,Ontario,3E3R4R
+Mark,Reeves,Markham,Alberta,6R5E6W
+Maria,Lee,St. Catharines,Ontario,4D5E6Y
+Steve,Willis,Markham,Alberta,2H5E6Y
+Sonia,Carrey,North York,Ontario,1L5E6X
+Merhman,Wallace,Pickering,British Columbia,6E3A1R
+Robert,Laurance,Niagara Falls,Manitoba,2W51Q2
