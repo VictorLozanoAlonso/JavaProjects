@@ -1,0 +1,25 @@
+Argentina	Buenos Aires
+Australia	Canberra
+Bangladesh	Dhaka
+Belgium	Brussels
+Brazil	Brasilia
+Canada	Ottawa
+China	Beijing
+Colombia	Bogotá
+Croatia	Zagreb
+Denmark	Copenhagen
+Finland	Helsinki
+France	Paris
+Germany	Berlin
+India	New Delhi
+Indonesia	Jakarta
+Iran	Tehran
+Italy	Rome
+Japan	Tokyo
+Peru	Lima
+Philippines	Manila
+Portugal	Lisbon
+Spain	Madrid
+Turkey	Ankara
+Ukraine	Kyiv
+Uzbekistan	Tashkent
