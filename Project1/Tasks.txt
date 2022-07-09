@@ -1,0 +1,42 @@
+Task 1:
+Design a class named MaxLocation for locating a maximal value and its location in a two- dimensional array. The class must contain three data fields
+• Row (used to store the row indices of a two-dimensional array)
+• Column (used to store the column indices of a two-dimensional array)
+• maxValue (used to store the maximum value in the two-dimensional array)
+Choose appropriate datatypes for all the data fields.
+Write a method that returns the location of the largest element in a two-dimensional array. The return value should be an instance of MaxLocation class.
+Your program that prompts the user to enter a two-dimensional array and displays the location of the largest element in the array.
+Here is a sample run:
+Enter the number of rows and columns in the array: 3 4
+
+Enter the array:
+23.5 35 2 10
+4.5 3 45 3.5
+35 44 5.5 9.6
+
+The location of the largest element is 45 at (1, 2)
+
+Task 2:
+This task is required to create Craps, which is a popular dice game played in casinos. You are supposed to write a program to play a variation of the game, as follows:
+• Roll two dice. (Each roll should produce two random numbers between 1 to 6)
+• Each die has six faces representing values 1, 2, ..., and 6, respectively.
+• Check the sum of the two dice. If the sum is 2, 3, or 12 (your program should display
+craps), you lose the game.
+• If the sum of the two dice is 7 or 11 (your program should display naturals), you win the
+game.
+• If the sum of two dice is any value (i.e., 4, 5, 6, 8, 9, or 10), your program should establish
+a point in the game (meaning store that sum). Continue to roll the dice until the sum is either a 7 or the same point value which was established. If rolled sum is 7, you lose the game. Otherwise, if the rolled sum is equal to established point you win.
+
+Your program acts as a single player.
+
+ You rolled 5 + 6 = 11 Congratulations, You win
+ You rolled 1 + 2 = 3
+Craps, Better Luck Next Time, You lose
+ You rolled 4 + 4 = 8
+Point is (established) set to 8 You rolled 5 + 1 = 6
+You rolled 1 + 1 = 2
+You rolled 6 + 2 = 8 Congratulations, You Win
+ You rolled 5 + 1 = 6
+Point is (established) set to 6
+You rolled 2 + 5 = 7
+Craps, Better Luck Next Time, You Lose
